@@ -1,0 +1,9 @@
+{
+  "name": "PivotOS",
+  "description": "Operational disruption management, dependency rescheduling, recovery simulation, and real-time contingency planning for agile teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
